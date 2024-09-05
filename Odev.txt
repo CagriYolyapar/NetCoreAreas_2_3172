@@ -1,0 +1,1 @@
+﻿N-Tier mimarisi ile yapılmıs olan Kutuphane ve E-Ticaret sistemini , hem BLL ve DAL katmanlarını düzenleyip (Manager pattern uygulamak) ve VM ve DTO yapıları acarak projeyi komple refactor ediniz...DTO ve VM'lerin farklı katmanlarda oldugu projeler büyük kalibreli ve saglıklı davranan projelerdir. 
